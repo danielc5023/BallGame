@@ -1,0 +1,96 @@
+Opening Lan Server:
+Select the Winscore and Stage for the server
+Distrbute your IP(shown next to the Open Server Button)
+Click Open Server
+
+Note: Make sure the firewall allows the game through.
+
+Joining Lan Server:
+Type The Host IP in the IP text field.
+Click Join
+
+
+Menu Options:
+Winscore(Server Only)
+Name Tag
+Choose stage(Server only)
+Choose music(Set music toggle to True)
+Choose colour
+Ban Vehchile(Server only)
+
+Other important things:
+Unlock the mouse- L
+Lock Mouse - Click in application
+Quit application- Hold escape
+
+Controls:
+
+Standard Player
+
+Movement-WASD
+Jumping-Space
+Aiming-Mouse
+LeftGun-Left click, Left control
+RightGun-Right click, Right Control
+Sniping- Middle click, z
+Zooming- Scroll wheel , V and B
+Shielding- Left Shift
+
+Tips- Fan the mouse up and down while in the air to 'fly'
+    - Zoom the camera to maximum to view player tags
+    - Shields take time to recharge and do not protect you from any explosive weapons.
+ 
+Tank
+
+Spawn- 1
+Movement-WASD
+Aiming-Mouse
+Bombs-Left click, Left control
+Machinegun-RightGun-Right click, Right Control
+
+Tips-You can place other players on the tank for support
+    -Consumes 3 points per death
+
+Ship
+
+Spawn-2
+Movement-WD and Mouse
+Aiming-Mouse
+Machineguns-Left click, Left control
+Bombs-RightGun-Right click, Right Control
+Spining- AD
+
+Tips- Spining does nothing it just looks cool
+    - Consumes 2 points per death
+
+Wheel
+
+Spawn-3
+Movement-WASD
+Jump- Space
+Aiming-Mouse
+Machineguns-Left click, Left control
+Bombs-RightGun-
+
+Tips- Turn around while moving and reverse to turnaround while keeping momentum
+    - Shoot a bomb in front of you to perform a rocket jump (consumes health though) 
+    - Move quickly through the air to maintain height
+    - Jumps take a few seconds to recharge
+    - Moving slower makes jumps more effective
+    - Consumes 2 points per death
+
+
+Bomber
+
+Spawn-4
+Movement-WD and Mouse
+Aiming- Mouse
+Rockets- Left Click, Left Ctrl
+Machineguns-Right click, Right Control
+Rise- Space
+Fall- Left Shift
+
+Tips- You can place other players on the bomber for support
+    - Missles come in 3s then you must wait for a few seconds for a reload.
+    - Consumes 4 points per death
+
